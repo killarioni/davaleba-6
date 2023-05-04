@@ -1,0 +1,54 @@
+* {
+    box-sizing: border-box;
+}
+
+.h{
+    margin-top: 85px;
+    margin-left: 141px;
+}
+
+
+table, th, td {
+    margin-left: 141px; 
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 15px
+}
+
+
+.button1{
+    width: 115px;
+    height: 36px;
+    background-color: #FFD43A;
+    padding-left: 5px;
+    margin-left: 75px;
+    border-radius: 10px;
+    border-style: hidden;
+}
+.button2{
+    width: 115px;
+    height: 36px;
+    background-color: #E84949;
+    padding-left: 10px;
+    margin-right: 55px;
+    border-radius: 10px;
+    border-style: hidden;
+}
+
+.date{
+    width: 86px;
+    height: 22px;
+    padding-left:  97px;
+    padding-right: 93px;
+}
+.script{
+    width: 401px;
+    height: 22px;
+    padding-left: 23px;
+}
+
+.ID{
+    width: 9px;
+    height: 22px;
+    margin-left: 32px;
+}
